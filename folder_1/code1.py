@@ -5,3 +5,9 @@ import numpy as np
 a = 5
 b = 4
 print(a+b)
+
+
+## the below is added after minsi
+c = 50
+d = 40
+print(c*d)
